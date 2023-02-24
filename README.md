@@ -26,7 +26,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented required features:
 
-<img src='https://submissions.us-east-1.linodeobjects.com/web102/2cXWMlre.gif'/>
+![](https://github.com/ThuNguyen-198/Web102-Unit1/blob/master/Unit_1.gif)
 
 GIF created with Kap  
 
