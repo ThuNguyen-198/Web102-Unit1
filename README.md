@@ -25,10 +25,8 @@ The following **additional** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented required features:
+img src='https://submissions.us-east-1.linodeobjects.com/web102/2cXWMlre.gif' />
 
-<a href="https://www.loom.com/share/39418a06f5a4410fb1e71a48a9eec342">
-    <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/39418a06f5a4410fb1e71a48a9eec342-with-play.gif">
-  </a>
 GIF created with Kap  
 
 ## Notes
