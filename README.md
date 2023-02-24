@@ -25,7 +25,7 @@ The following **additional** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented required features:
-img src='https://submissions.us-east-1.linodeobjects.com/web102/2cXWMlre.gif' />
+<img src='https://submissions.us-east-1.linodeobjects.com/web102/2cXWMlre.gif' />
 
 GIF created with Kap  
 
