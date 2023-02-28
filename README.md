@@ -26,7 +26,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented required features:
 
-![](https://github.com/ThuNguyen-198/Web102-Unit1/blob/master/Unit_1.gif)
+<img src="https://github.com/ThuNguyen-198/Web102-Unit1/blob/master/Unit_1.gif" width=200>
 
 GIF created with Kap  
 
