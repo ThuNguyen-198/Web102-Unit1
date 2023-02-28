@@ -25,9 +25,8 @@ The following **additional** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented required features:
-![unit1 gif](https://submissions.us-east-1.linodeobjects.com/web102/ZDo0VDZ2.gif)
 
-<img src='https://submissions.us-east-1.linodeobjects.com/web102/ZDo0VDZ2.gif' width=200 />
+<img src='https://github.com/ThuNguyen-198/Web102-Unit1/blob/master/ZDo0VDZ2.gif' width=200 />
 
 GIF created with Kap  
 
